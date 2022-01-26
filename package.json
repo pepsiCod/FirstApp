@@ -1,0 +1,24 @@
+{
+  "name": "azurepipelinessample",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm install",
+    "start": "node app.js"
+  },
+  "author": "",
+  "licence": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://milospetrovic10@dev.azure.com/milospetrovic10/Azure%20Pipeline%20Sample/_git/Azure%20Pipeline%20Sample"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "standard": "^16.0.4"
+  }
+}
